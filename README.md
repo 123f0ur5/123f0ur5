@@ -1,4 +1,4 @@
-# <p align="center">Hello world, I'm <img align="center" src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=32&pause=2000&vCenter=true&color=FFFFFF&repeat=true&width=200&lines=Groot...;Lucas!"/></p></div>
+# <p align="center">Hello world, I'm <img align="center" src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=32&pause=2000&vCenter=true&repeat=true&width=200&lines=Groot...;Lucas!"/></p></div>
 
 My name is Lucas Alves and I was born in Brazil in 1996.
 Growing up, I was always passionate about games and programming. I remember the first time I was exposed to programming - I was around 14 years old and it was love at first sight! I was fascinated by the challenge of creating something new and the feeling of accomplishment when I succeeded. As I grew older, my passion for programming only grew, and I continued to learn new skills and find new ways to apply them.
